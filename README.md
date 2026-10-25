@@ -34,8 +34,8 @@ SI = (1000 x 5 x 2) / 100 = 100
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/samruddhi042/Simple-Interest-Calculator.git
-   cd Simple-Interest-Calculator
+   git clone https://github.com/samruddhi042/github-final-project.git
+   cd github-final-project
    ```
 2. Make the script executable:
    ```bash
