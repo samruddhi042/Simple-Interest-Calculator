@@ -7,7 +7,7 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 1. **Fork** the repository.
 2. **Clone** your fork:
    ```bash
-   git clone https://github.com/samruddhi042/Simple-Interest-Calculator.git
+   git clone https://github.com/samruddhi042/github-final-project.git
    ```
 3. **Create a branch** for your change:
    ```bash
